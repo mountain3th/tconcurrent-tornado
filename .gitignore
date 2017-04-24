@@ -1,4 +1,4 @@
-tconcurrent.egg-info/
+tconcurrent/tconcurrent.egg-info/
 .eggs/
 .python-version
 *.pyc
