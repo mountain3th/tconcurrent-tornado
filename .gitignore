@@ -1,4 +1,6 @@
-src/tconcurrent.egg-info/
+tconcurrent.egg-info/
 .eggs/
 .python-version
 *.pyc
+dist/
+build/

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: tconcurrent-tornado
+Version: 0.0.1
+Summary: A multi-threads future based on tornado's coroutine
+Home-page: UNKNOWN
+Author: SAM
+Author-email: mountainking@126.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

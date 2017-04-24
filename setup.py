@@ -19,14 +19,14 @@ for item in requirements:
         requires.append(str(item.req))
 
 setup(
-        name='tconcurrent',
+        name='tconcurrent-tornado',
         version='0.0.1',
         author='SAM',
         author_email='mountainking@126.com',
         description='A multi-threads future based on tornado\'s coroutine',
         license='MIT',
-        packages=find_packages('src'),
-        package_dir={'': 'src'},
+        packages=find_packages('tconcurrent'),
+        package_dir={'': 'tconcurrent'},
         test_suite="tests",
         install_requires=requires,
         dependency_links=links
