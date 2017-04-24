@@ -1,0 +1,4 @@
+src/tconcurrent.egg-info/
+.eggs/
+.python-version
+*.pyc
